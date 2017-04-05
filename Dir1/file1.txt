@@ -2,3 +2,5 @@ haui
 howdy
 
 sandbox2
+sandbox1:  DIR1 -> Dir1
+sandbox1:  DIR1 -> Dir1
